@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "My Streams",
+      "description": "this is my first stream",
+      "userId": "106749477514077420178",
+      "id": 1
+    },
+    {
+      "title": "this is my third stream",
+      "description": "it was made by me third time",
+      "userId": null,
+      "id": 3
+    },
+    {
+      "title": "Programmatic navigation",
+      "description": "you should not see this on the form page!!",
+      "id": 4
+    },
+    {
+      "title": "Streaming component",
+      "description": "I refactor components",
+      "id": 5
+    }
+  ]
+}
