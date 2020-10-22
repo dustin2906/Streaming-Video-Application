@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Streaming-Video-Application/client/static/js/main.91f2e7c8.chunk.js",
+    "main.js.map": "/Streaming-Video-Application/client/static/js/main.91f2e7c8.chunk.js.map",
+    "runtime-main.js": "/Streaming-Video-Application/client/static/js/runtime-main.a9ee461c.js",
+    "runtime-main.js.map": "/Streaming-Video-Application/client/static/js/runtime-main.a9ee461c.js.map",
+    "static/js/2.79b7a91b.chunk.js": "/Streaming-Video-Application/client/static/js/2.79b7a91b.chunk.js",
+    "static/js/2.79b7a91b.chunk.js.map": "/Streaming-Video-Application/client/static/js/2.79b7a91b.chunk.js.map",
+    "index.html": "/Streaming-Video-Application/client/index.html",
+    "precache-manifest.efb208475d549f5853a54c326fded256.js": "/Streaming-Video-Application/client/precache-manifest.efb208475d549f5853a54c326fded256.js",
+    "service-worker.js": "/Streaming-Video-Application/client/service-worker.js",
+    "static/js/2.79b7a91b.chunk.js.LICENSE.txt": "/Streaming-Video-Application/client/static/js/2.79b7a91b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9ee461c.js",
+    "static/js/2.79b7a91b.chunk.js",
+    "static/js/main.91f2e7c8.chunk.js"
+  ]
+}
